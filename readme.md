@@ -151,32 +151,43 @@ POST /api/pools
 Include screenshots demonstrating:
 
 - Project folder structure (backend + frontend)
-![alt text](image.png)
+<img width="466" height="728" alt="$RN53U1Y" src="https://github.com/user-attachments/assets/3c92ac41-f8c8-40c1-9125-4e624ef52d5f" />
+
 
 - Backend server running (npm run dev)
-![alt text](image-1.png)
+<img width="1789" height="596" alt="$RAALPN7" src="https://github.com/user-attachments/assets/763402ef-aabc-4813-89ee-5bcd0f83e9d7" />
+
 
 - Frontend running (Vite dev server)
-![alt text](image-2.png)
+<img width="1801" height="593" alt="$RZF6QTG" src="https://github.com/user-attachments/assets/68cfe492-e3b5-4e94-9993-4da4f510a4d8" />
+
 
 
 - Successful test execution (npm run test)
-![alt text](image-3.png)
+<img width="1764" height="862" alt="$R8A11UJ" src="https://github.com/user-attachments/assets/abd7d104-85d3-4229-b483-f463195fbfad" />
+
 
 - API responses in browser or Postman:
   - GET /api/routes
-  ![alt text](image-4.png)
+ <img width="2474" height="1468" alt="$RJTBD45" src="https://github.com/user-attachments/assets/bb5be028-afe3-402c-a4d3-64f45982e0a3" />
+
 
   - GET /api/routes/comparison
-  ![alt text](image-5.png)
+  <img width="1025" height="1136" alt="$R412UOU" src="https://github.com/user-attachments/assets/a3a8346c-69ba-45b2-8c69-a5a9c99e0d12" />
 
-  - POST /api/banking/apply
-  - POST /api/pools
 - Frontend UI pages:
   - Routes tab
+    <img width="2551" height="1457" alt="image" src="https://github.com/user-attachments/assets/00d94d1f-8fc4-4d38-b288-eb3142fb47b2" />
+
   - Comparison tab
+    <img width="2559" height="1462" alt="image" src="https://github.com/user-attachments/assets/ba50a145-9a71-4d12-a2f2-8ffe85cf549e" />
+
   - Banking tab
+    ![Uploading image.png…]()
+
   - Pooling tab
+    ![Uploading image.png…]()
+
 
 These screenshots demonstrate full-stack functionality and help evaluators quickly verify the system’s features.
 
