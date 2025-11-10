@@ -183,10 +183,12 @@ Include screenshots demonstrating:
     <img width="2559" height="1462" alt="image" src="https://github.com/user-attachments/assets/ba50a145-9a71-4d12-a2f2-8ffe85cf549e" />
 
   - Banking tab
-    ![Uploading image.png…]()
+    <img width="2553" height="1470" alt="image" src="https://github.com/user-attachments/assets/615b8ac1-1e62-464d-950f-f49c8be4cf22" />
 
   - Pooling tab
-    ![Uploading image.png…]()
+   <img width="2553" height="1470" alt="image" src="https://github.com/user-attachments/assets/c4f5b002-852f-4bf5-a0a1-78a91c27b781" />
+
+
 
 
 These screenshots demonstrate full-stack functionality and help evaluators quickly verify the system’s features.
